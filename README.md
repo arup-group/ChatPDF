@@ -26,13 +26,3 @@
 
 
 
-
-# Project Readme Files
-
-- [Development Setup](DEVELOPMENT-SETUP.md)
-- [Infrastructure Setup](INFRASTRUCTURE.md)
-- [Deployment Guide](DEPLOYMENT.md)
-- [Troubleshooting Guide](TROUBLESHOOTING.md)
-- [Design Guide](DESIGN-UX-UI.md)
-
-<br>
