@@ -1,18 +1,17 @@
-## Project Title
+# Project Title
 
 *`AI-Powered Document Prompting Tool`*
 
 <br>
 
-## Project Description 
+# Project Description 
 
 *`AI tool capable of performing comprehensive queries by prompts on large and complex PDF documents, more particularly codes and standards.`*
 
 <br>
 
-## Project Roles and Responsibilities
+# Project Roles and Responsibilities
 
-*`complete the details (where appropriate) below with the project specific information`*
 
 | Role              | Individual or Group   |
 |------------------ |-------------  |
