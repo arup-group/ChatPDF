@@ -35,7 +35,6 @@ Make sure to put the correct document file path in the "ingest" file.
 <br>
 <br>
 The collection name and the persist directory on the "ingest" file should match the ones that are in the "chatbot" file.
-In this repo, the CSA S6 and the AASHTO have already been embedded, you won't need to reingest the data if you want to use those.
 <br>
 <br>
 To end a conversation with the chatbot, just enter "end"
