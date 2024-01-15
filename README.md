@@ -37,7 +37,7 @@ Make sure to put the correct document file path in the "ingest" file.
 The collection name and the persist directory on the "ingest" file should match the ones that are in the "chatbot" file.
 <br>
 <br>
-To end a conversation with the chatbot, just enter "end"
+To end a conversation with the chatbot, just enter "end".
 
 
 
